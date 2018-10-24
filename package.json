@@ -14,8 +14,13 @@
   },
   "dependencies": {
     "@expo/samples": "2.1.1",
+    "@shoutem/cli": "^0.10.10",
+    "@shoutem/ui": "^0.23.4",
+    "electron": "^3.0.5",
     "expo": "^30.0.1",
+    "native-base": "^2.8.1",
     "react": "16.3.1",
+    "react-devtools": "^3.4.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
     "react-navigation": "^2.16.0"
   },

@@ -1,0 +1,1 @@
+export const upFirstChar = lower => lower.charAt(0).toUpperCase() + lower.substr(1);
